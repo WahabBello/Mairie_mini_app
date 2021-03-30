@@ -1,0 +1,15 @@
+Bonjour,
+
+Pour se connecter dans l'application avec sa base de donnée "mairie.db".
+
+- Il faut excecuter le fichier vue.py
+
+- Puis saisir ces identifiants :
+
+* En tant que admin 
+    Usermane : admin
+    Password: admin
+
+* En tant que utulisateur simple 
+    Usermane : user
+    Password: user
